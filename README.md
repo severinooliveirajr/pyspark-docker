@@ -53,8 +53,9 @@ Criar um ambiente PySpark para desenvolvimento, testes e aprendizado, utilizando
 
 8. Desenvolvimento e Testes
   Com o container rodando, é possível colocar os scripts Python na pasta 'src' e testá-los diretamente no ambiente Pyspark configurado, permitindo uma forma eficaz de desenvolver e testar os códigos em ambiente isolado e consistente.
+  Os arquivos para processamento devem ser colocados no diretório 'data'.
 
-9. Parar e Remover Containers
+10. Parar e Remover Containers
   Para parar o serviço, usar 'Ctrl + c' no terminal onde o 'docker-compose up' está sendo executado.
   Para remover os containers e volumes, execute:
     docker-compose down

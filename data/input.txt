@@ -1,0 +1,4 @@
+id,nome,data_nascimento
+1,João,1974-01-31
+2,Maria,1950-01-09
+3,José,1997-02-14
